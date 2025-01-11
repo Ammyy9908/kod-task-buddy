@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div>
-      
+      <h1>Kod Task Buddy</h1>
     </div>
   )
 }
