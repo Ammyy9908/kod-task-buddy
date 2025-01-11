@@ -1,7 +1,7 @@
 # terminals
 terminals:
     [
-        'npm install --force'
+        'echo "Day 1 Init"'
     ]
 # other config
 tabs: ['src/App.js']
