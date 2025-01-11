@@ -1,0 +1,8 @@
+# terminals
+terminals:
+    [
+        'npm install --force'
+    ]
+# other config
+tabs: ['src/App.js']
+run-button: npm run dev
